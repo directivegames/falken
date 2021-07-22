@@ -39,3 +39,9 @@ dashboard/dist/falken.js
 dashboard/dist/falken_grpc-bundle.js
 dashboard/gen
 dashboard/tmp
+environments/cpp/hello_falken/build/
+projects/
+models_dir/
+service/proto_gen_module/
+*.log*
+service/tools/falken_config.json
